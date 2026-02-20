@@ -1,5 +1,5 @@
 # bugs_screenshots
 
-Bu repo, test sürecinde tespit edilen bug’lara ait ekran görüntülerini (screenshot) saklamak için oluşturuldu.
+Bu repo, test sürecinde tespit edilen bug’lara ait ekran görüntülerini (screenshot) saklamak ve excel dosyası içeriğini görüntüleyebilmek amacı ile oluşturulmuştur.
 
-Excel dosyasındaki **Screenshot Link** sütununda yer alan bağlantılar, bu repodaki ilgili görsellere yönlendirir (örn: BR-01.png, BR-02.png).
+Screenshot kısmı için ; Excel dosyasındaki **Screenshot Link** sütununda yer alan bağlantılar, bu repodaki ilgili görsellere yönlendirir (örn: BR-01.png, BR-02.png).
